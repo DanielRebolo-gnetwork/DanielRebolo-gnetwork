@@ -1,4 +1,5 @@
-![](https://github.com/DanielRebolo-gnetwork/DanielRebolo-gnetwork/blob/main/vegito-final.gif?raw=true)
+
+![](https://github.com/DanielRebolo-gnetwork/DanielRebolo-gnetwork/blob/main/gnetwork-logo-reverse.png)
 
 - 👋 Hi, I’m Daniel. A Dev in a NetOpsy role.
 - 👀 I’m interested in clean code and automating all the things.
