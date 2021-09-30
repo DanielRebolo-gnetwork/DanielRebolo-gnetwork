@@ -1,4 +1,4 @@
-
+![](https://github.com/DanielRebolo-gnetwork/DanielRebolo-gnetwork/blob/main/codingGif.gif?raw=true)
 ![](https://github.com/DanielRebolo-gnetwork/DanielRebolo-gnetwork/blob/main/gnetwork-logo-reverse.png)
 
 - 👋 Hi, I’m Daniel a Dev in a NetOpsy role.
