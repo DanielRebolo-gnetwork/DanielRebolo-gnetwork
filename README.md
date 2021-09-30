@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/DanielRebolo-gnetwork/DanielRebolo-gnetwork/blob/main/hacker-hacker-man.gif
+![me](https://raw.githubusercontent.com/DanielRebolo-gnetwork/DanielRebolo-gnetwork/blob/main/hacker-hacker-man.gif
 
 - 👋 Hi, I’m Daniel. A dev in a NetOpsy role.
 - 👀 I’m interested in clean code and automating all the things.
